@@ -6,11 +6,11 @@ A modern desktop application to download music from Spotify, built with **Tauri 
 
 ## Features
 
-- 🎵 Download tracks, playlists, and albums
-- 🚀 Native desktop app
-- 🎨 Modern Spotify-themed UI
-- ⚡ Fast parallel downloads
-- 📁 Custom download location
+- Download tracks, playlists, and albums;
+- Native desktop app;
+- Modern Spotify-themed UI;
+- Fast parallel downloads;
+- Custom download location;
 
 ---
 
@@ -97,7 +97,7 @@ SpotifyDownloader/
 
 ## Create desktop icon
 
-> [!ATTENTION]
+> [!WARNING]
 > Substitute "/path/to" with the actual path to the spotify downloader folder in:
 > - The command line below;
 > - The run-app.sh file at line 2;
@@ -110,13 +110,15 @@ cp /path/to/Projects/SpotifyDownloader/spotify-downloader.desktop ~/.local/share
 update-desktop-database ~/.local/share/applications/
 ```
 
-## License
-
-GNU General Public License.
-
 ## Screenshots
 
 ![App Screenshot](src/screenshots/ScreenshotHome.png)
 
 
 ![Download Progress](src/screenshots/PlaylistDownload.png)
+
+
+## License
+
+GNU General Public License.
+Feel free to redistribute and upgrade the project.
