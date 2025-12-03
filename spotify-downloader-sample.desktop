@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Spotify Downloader
+Comment=Download music from Spotify
+Exec=/path/to/SpotifyDownloader/run-app.sh
+Icon=/path/to/SpotifyDownloader/spotify-downloader-gui/src-tauri/icons/icon.png
+Terminal=false
+Type=Application
+Categories=Audio;Music;Network;
+StartupWMClass=spotify-downloader-gui

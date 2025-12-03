@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Downloads
+*.mp3
+
+# Tauri / Node.js
+spotify-downloader-gui/node_modules/
+spotify-downloader-gui/dist/
+spotify-downloader-gui/src-tauri/target/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Desktop
+spotify-downloader.desktop
