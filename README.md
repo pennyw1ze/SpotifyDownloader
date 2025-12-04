@@ -37,12 +37,6 @@ sudo pacman -S webkit2gtk-4.1
 sudo apt install libwebkit2gtk-4.1-dev
 ```
 
-### For spotdl (Download Engine)
-
-```bash
-pip install spotdl
-```
-
 ---
 
 ## Run the Desktop App
